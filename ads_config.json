@@ -1,11 +1,11 @@
 
 {
-  "ads_enabled": true,
-  "test_mode": true,
-  "banner_enabled": true,
-  "interstitial_enabled": true,
-  "rewarded_enabled": true,
-  "app_open_enabled": true,
+  "ads_enabled": false,
+  "test_mode": false,
+  "banner_enabled": false,
+  "interstitial_enabled": false,
+  "rewarded_enabled": false,
+  "app_open_enabled": false,
   "ad_units": {
     "android": {
       "banner": "ca-app-pub-3940256099942544/6300978111",
