@@ -1,16 +1,16 @@
 
 {
-  "ads_enabled": false,
-  "test_mode": false,
-  "banner_enabled": false,
-  "interstitial_enabled": false,
-  "rewarded_enabled": false,
-  "app_open_enabled": false,
+  "ads_enabled": true,
+  "test_mode": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "app_open_enabled": true,
   "ad_units": {
     "android": {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "banner": "ca-app-pub-3380498514301154/5138632174",
+      "interstitial": "ca-app-pub-3380498514301154/5321541560",
+      "rewarded": "ca-app-pub-3380498514301154/6758835609",
       "app_open": "ca-app-pub-3940256099942544/9257395921"
     }
   }
